@@ -8,7 +8,7 @@
 
 
 
-[] Instalação do git
+[] Obtendo o git
 
  - Baixando git
    - Acesse osite oficial em [git-scm]( https://git-scm.com/) e baixe a última versão do instalador de acordo com seu sistema operacional.
