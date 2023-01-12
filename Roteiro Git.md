@@ -99,12 +99,13 @@
 
 - **mkdir**: Cria um diretório
 
-  > Use o comando mkdir para criar um novo diretório – como **mkdir Music**, que vai criar um novo diretório chamado **Music**.
+  > - Use o comando mkdir para criar um novo diretório – como mkdir Ferias, que vai criar um novo diretório chamado Ferias.
   >
-  > Também existem comandos **mkdir** extras:
+  >   Também existem comandos mkdir extras:
   >
-  > - Para gerar um novo diretório dentro de outro diretório, use este comando básico do Linux **mkdir Music/Newfile**
-  > - use a opção **p** (parents) para criar um diretório entre dois diretórios existentes. Por exemplo, **mkdir -p Music/2020/Newfile** vai criar o novo arquivo “2020”.
+  >   Para gerar um novo diretório dentro de outro diretório, use este comando básico do Linux mkdir Ferias/Newimage
+  >
+  >   use a opção p (parents) para criar um diretório entre dois diretórios existentes. Por exemplo, mkdir -p Ferias/2022/Newimage vai criar o arquivo Newimage no novo diretório “2022”.
 
   
 
