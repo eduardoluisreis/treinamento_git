@@ -8,22 +8,24 @@
 
 
 
-[] Obtendo o git
+- [x] Obtendo o git
 
  - Baixando git
    - Acesse osite oficial em [git-scm]( https://git-scm.com/) e baixe a última versão do instalador de acordo com seu sistema operacional.
 
 [] Instalando
 
+- Em ambiente Windos, siga o processo padrão de instalção, clicando no arquivo executavel e siga sempre com Next , Next ....Finish.
+
 [] Iniciando um projeto git
 
-- git init
-  - git add
-  - git commit
+- git init ( Este comando irá inicar o repositório )
+  - git add ( Este comando adiciona o conteudo para o próximo estágio, o commit)
+  - git commit ( Este comando salva um snapshot do estado do repositório naquele momento )
 
 [] Fazendo commit
 
-- flags -a -m
+- flags -a -m ( A flag -m indica que você irá inserir uma mensagem de informação para aquele commit. A flag -a indica que esta mensagem será adicionada para todos os arquivos)
 
 [] Alguns Comandos git
 
