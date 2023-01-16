@@ -8,26 +8,26 @@
 
 
 
-- [x] Obtendo o git
+- [ ] Obtendo o git
+  - Baixando git
+    - Acesse osite oficial em [git-scm]( https://git-scm.com/) e baixe a última versão do instalador de acordo com seu sistema operacional.
 
- - Baixando git
-   - Acesse osite oficial em [git-scm]( https://git-scm.com/) e baixe a última versão do instalador de acordo com seu sistema operacional.
 
-[] Instalando
+- [ ] Instalando
+  - Em ambiente Windos, siga o processo padrão de instalção, clicando no arquivo executavel e siga sempre com Next , Next ....Finish.
 
-- Em ambiente Windos, siga o processo padrão de instalção, clicando no arquivo executavel e siga sempre com Next , Next ....Finish.
 
-[] Iniciando um projeto git
+- [ ] Iniciando um projeto git
+  - git init ( Este comando irá inicar o repositório )
+    - git add ( Este comando adiciona o conteudo para o próximo estágio, o commit)
+    - git commit ( Este comando salva um snapshot do estado do repositório naquele momento )
 
-- git init ( Este comando irá inicar o repositório )
-  - git add ( Este comando adiciona o conteudo para o próximo estágio, o commit)
-  - git commit ( Este comando salva um snapshot do estado do repositório naquele momento )
 
-[] Fazendo commit
+- [ ] Fazendo commit
+  - flags -a -m ( A flag -m indica que você irá inserir uma mensagem de informação para aquele commit. A flag -a indica que esta mensagem será adicionada para todos os arquivos)
 
-- flags -a -m ( A flag -m indica que você irá inserir uma mensagem de informação para aquele commit. A flag -a indica que esta mensagem será adicionada para todos os arquivos)
 
-[] Alguns Comandos git
+- [ ] Alguns Comandos git
 
 	- git checkout
 	- git branch
@@ -35,43 +35,47 @@
 	- git diff
 	- git status
 
-[] Criando conta no GitHub
+- [ ] Criando conta no GitHub
 
-[] Apontando para o GitHub
+- [ ] Apontando para o GitHub
 
--  Comandos de Configuração Global
--  Comandos de Configuração Local
+  -  Comandos de Configuração Global
 
-[] Fazendo Pull
+  -  Comandos de Configuração Local
 
-[] Clonando Projeto Existente
 
-[] Subindo Alterações em um Projeto Existente
+- [ ] Fazendo Pull
 
-- git push
+- [ ] Clonando Projeto Existente
 
-[] Comandos Linux para usar com o gitbash
+- [ ] Subindo Alterações em um Projeto Existente
+  - git push
 
-- **touch:** Cria arquivos em branco
 
-  > O comando **touch** permite criar novos arquivos em branco através de uma linha de comando. Como exemplo, digite **touch /home/username/Documentos/index.html** para criar um arquivo **HTML** chamado **index** dentro do diretório **Documentos**.
+- [ ] Comandos Linux para usar com o gitbash
 
-  
+  - **touch:** Cria arquivos em branco
 
-- **ls**: Lista todos os arquivos do diretório
+    > O comando **touch** permite criar novos arquivos em branco através de uma linha de comando. Como exemplo, digite **touch /home/username/Documentos/index.html** para criar um arquivo **HTML** chamado **index** dentro do diretório **Documentos**.
 
-  >  Para listar os arquivos existentes em algum diretório, basta usar o comando *ls*. Se executado sem parâmetros, ele listará o conteúdo do diretório em que você se encontra. Mas você pode indicar um caminho para ele, como *ls /usr/bin*, por exemplo.
-  >
-  > Existem variações que você pode usar com o comando **Is**:
-  >
-  > - **ls -R** vai listar todos os arquivos nos subdiretórios
-  > - **ls -a** vai mostrar todos os arquivos ocultos
-  > - **ls -l** vai listar todos os arquivos e diretórios com informações detalhadas como permissões, tamanho, proprietário, etc.
-  > - **ls -al** vai listar todos os arquivos e diretórios, incluindo ocultos com informações detalhadas como permissões, tamanho, proprietário, etc.
-  >
-  > Também é possível usar o *ls* para conferir o tamanho e a data de criação de cada arquivo ou pasta. Para isso, use o parâmetro *-lh*, como no exemplo a seguir: *ls -lh*. E se você também quiser listar os arquivos ocultos, que começam com um ponto, use a opção *-a* (*ls -lha*).
+    
 
-  
+
+  - **ls**: Lista todos os arquivos do diretório
+
+    >  Para listar os arquivos existentes em algum diretório, basta usar o comando *ls*. Se executado sem parâmetros, ele listará o conteúdo do diretório em que você se encontra. Mas você pode indicar um caminho para ele, como *ls /usr/bin*, por exemplo.
+    >
+    > Existem variações que você pode usar com o comando **Is**:
+    >
+    > - **ls -R** vai listar todos os arquivos nos subdiretórios
+    > - **ls -a** vai mostrar todos os arquivos ocultos
+    > - **ls -l** vai listar todos os arquivos e diretórios com informações detalhadas como permissões, tamanho, proprietário, etc.
+    > - **ls -al** vai listar todos os arquivos e diretórios, incluindo ocultos com informações detalhadas como permissões, tamanho, proprietário, etc.
+    >
+    > Também é possível usar o *ls* para conferir o tamanho e a data de criação de cada arquivo ou pasta. Para isso, use o parâmetro *-lh*, como no exemplo a seguir: *ls -lh*. E se você também quiser listar os arquivos ocultos, que começam com um ponto, use a opção *-a* (*ls -lha*).
+
+    
+
 
 - **df**: Mostra a quantidade de espaço usada no disco rígido
 
