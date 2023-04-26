@@ -14,7 +14,7 @@
 
 
 - [x] Instalando
-  - Em ambiente Windos, siga o processo padrão de instalção, clicando no arquivo executavel e siga sempre com Next , Next ....Finish.
+  - Em ambiente Windows, siga o processo padrão de instalção, clicando no arquivo executavel e siga sempre com Next , Next ....Finish.
 
 
 - [x] Iniciando um projeto git
